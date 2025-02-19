@@ -1,2 +1,2 @@
 # MPTH
-Summary of results for the Cuboide/Cubus Problem found by matheplanet user
+Summary of results for the Cuboide/Cubus Problem found by matheplanet community
